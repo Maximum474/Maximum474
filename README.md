@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Maximum474
-- 👀 I’m interested in coding in C++
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on C++ projects
+- 👋 Hi, I’m @Maximum474 Or Yago
+- 👀 I’m interested in coding in C/C++
+- 🌱 I’m currently C/C++
+- 💞️ I’m looking to collaborate on C/C++ projects
 - 📫 How to reach me gmail
 
 <!---
